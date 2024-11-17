@@ -1,0 +1,410 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+git 
+
+*{
+    background-color: rgba(255, 255, 255, 1);
+    
+    box-sizing: border-box;
+    font-family: "Bitter","Montserrat";
+}
+.container
+{
+    max-width: 1440px;
+    padding: 20px;
+}
+
+header{
+margin-left: 180px;
+padding: 20px;
+}
+
+.crnavbar{
+    margin-top: 60px;
+    width: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.crright{
+    display: flex;
+    gap:25px;
+    margin-right: -1100px;
+
+}
+.ctitles{
+    padding: 20px;
+    font-size: 14px;
+    font-family:"Bitter";
+    font-weight: 580;
+    color: #322E29;
+}
+
+.cricons{
+    display: flex;
+    gap: 40px;
+    padding:20px;
+}
+.iconsbtn{
+    background-color:rgba(248, 243, 236, 1);
+    width: 91px;
+    height: 41px;
+    border-radius: 12px;
+    border-style: hidden;
+    justify-content: center;
+    color:rgba(50, 46, 41, 1);
+    font-family: "Bitter";
+    font-weight: 550;
+    font-size: 14px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+.container{
+    padding: 20px;
+    width: 1140px;
+    height: 510px;
+    margin-left: 300px;
+    backdrop-filter: blur(48px);
+    size: 1280px;
+    background-image: url("/assets/images/samsommer-vddccTqwal8-unsplash\ 1.png");
+}
+.itexts{
+    padding: 20px;
+}
+.itextstitle{
+    width: 334px;
+    height: 112px;    
+    margin-top: 160px;
+    margin-left: 80px;
+    gap: 24px;    
+    font-family: "Bitter";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #322E29;        
+}
+.itext{
+    width: 341px;
+    height: 96px;
+    font-family: "Bitter";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.introbtn{
+    width: Hug (127px)px;
+    height: Hug (40px)px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 12px;    
+    color: #ffffff;
+    background-color: #D3A562;
+    border-style: hidden;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+#panel{
+    display: flex;
+    border-color:#D3A562;
+    background-color: #FDFBF9;
+    width: 727px;
+    height: 64px;
+    margin-left: -0.5px;
+    border-radius: 32px;
+    border: 1px;    
+    border-radius: 32px;
+}
+.ppanel{
+    display: flex;
+
+}
+.pbtn{
+    width:150px;
+    height: 40px;
+    margin-top: 12px;
+    margin-left: 611.5px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 12px;
+    color: #FFFFFF;
+    background-color: #D3A562;
+    border-style: hidden;
+    font-family: "Bitter";
+    font-weight: 400;
+    
+}
+#panel{
+    display: flex;
+    border-color:#D3A562;
+    background-color: #FDFBF9;
+    width: 727px;
+    height: 64px;
+    margin-left: -0.5px;
+    border-radius: 32px;
+    border: 1px;    
+    border-radius: 32px;
+}
+.ppanel{
+    display: flex;
+
+}
+.pbtn{
+    width:150px;
+    height: 40px;
+    margin-top: 12px;
+    margin-left: 611.5px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 12px;
+    color: #FFFFFF;
+    background-color: #D3A562;
+    border-style: hidden;
+    font-family: "Bitter";
+    font-weight: 400;
+    
+}
+#lupa{
+
+ 
+    margin-left:180px;
+  
+}
+.lupa{
+    width: 900px;
+    padding:15px;
+    height:65px;
+    margin-top: 100px;
+    margin-left: 250px;
+    display: flex;
+    border-radius:30px;
+    border:1px;
+    border-style: solid;
+    border-color:#D3A562;
+    background-color: #FDFBF9;
+   
+ img{
+        padding-top:15px;
+        width: 30px;
+        height: 30px;
+        margin-right:40px;
+      } 
+       h5{
+         width: 300px;
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(136, 140, 148, 1);
+    }
+   
+}
+
+.pbtn{
+    width:150px;
+    height: 40px;
+    margin-top: 12px;
+    margin-left: 611.5px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 12px;
+    color: #FFFFFF;
+    background-color: #D3A562;
+    border-style: hidden;
+    font-family: "Bitter";
+    font-weight: 400;
+    
+}
+#card{
+    margin-top:80px;
+    margin-left:20px;
+}
+.all{
+    display: block;
+}
+.first{
+    
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h4{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h5{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first1{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr1{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first2{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr2{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first3{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr3{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first4{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr4{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
+
+.first5{
+    margin-left:280px;
+    width: 342px;
+    h1{
+        font-weight: 400;
+        font-size: 13px;
+        font-style: italic;
+        font-family: "Bitter";
+        color:rgba(211, 165, 98, 1);
+    }
+    h3{ 
+        font-family: "Montserrat";
+        font-size: 24px;
+        font-weight: 600;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: "Bitter";
+        color:rgba(50, 46, 41, 1);
+    }
+    
+}
+
+.firsthr5{
+    border:1px solid rgba(211, 165, 98, 1);
+   
+}
